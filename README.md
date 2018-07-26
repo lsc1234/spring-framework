@@ -12,7 +12,7 @@ section in the reference for a more complete introduction.
 
 This project is governed by the [Spring Code of Conduct](CODE_OF_CONDUCT.adoc).
 By participating you are expected to uphold this code.
-Please report unacceptable behavior to spring-code-of-conduct@pivotal.io.
+Please report unacceptable behavior to spring-code-of-conduct3423423423423432@pivotal.io.
 
 ## Access to Binaries
 
